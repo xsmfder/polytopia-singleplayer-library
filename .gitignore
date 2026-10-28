@@ -1,0 +1,35 @@
+# Build / local validation
+/build/
+/dist/
+/evidence/
+/artwork/
+/github-ready/
+/.vs/
+/.idea/
+/.vscode/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.dll
+*.pdb
+*.polymod
+*.polymod.*
+*.zip
+*.log
+*.tmp
+# Game data / authentication
+*.state
+*.polysave
+*.polyreplay
+*.pending
+*.decision
+jwtToken
+jwtToken.*
+.env
+.env.*
+!.env.example
+/Logs_past.txt
+# OS
+Thumbs.db
+.DS_Store

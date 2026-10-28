@@ -1,0 +1,36 @@
+{
+  "origin": "Custom utility glyphs generated with OpenAI image generation, supplied under the project MIT license.",
+  "import": "tools/prepare_icons.ps1 extracts glyph coverage from the blue/white palette; preserves seam and antialiasing; no native game artwork included.",
+  "files": [
+    {
+      "file": "refresh.png",
+      "sha256": "28f9a48f8e56a70108cea52fd8733077a6d007a2c3459d35771ad07387864c8a",
+      "source": "sources/refresh-blue.png",
+      "sourceSha256": "16c85081d29c89b0290fbc2392ea22fb33cb96e3f2701ff47335dc8c12fe6da1",
+      "size": [
+        128,
+        128
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "whiteGlyph": true
+    },
+    {
+      "file": "folder.png",
+      "sha256": "82462b0b9d9a3b36a16beb5a21282982270610def1b934e999d6544d5f9ed07e",
+      "source": "sources/folder-blue.png",
+      "sourceSha256": "e3a9020328f0e4c58f702ac4cd93747b91b227416357587e228d9cb1ed9658e2",
+      "size": [
+        128,
+        128
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "whiteGlyph": true
+    }
+  ]
+}
